@@ -25,7 +25,7 @@ class CalculatorApp extends StatelessWidget {
 
 
 
-class CalculaterScreen extends StatefulWidget{
+class CalculatorScreen extends StatefulWidget{
   @override
   _CalculatorScreenState createState() => _CalculatorScreenState();
 
